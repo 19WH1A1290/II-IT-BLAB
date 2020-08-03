@@ -7,3 +7,6 @@ To Display the names and rollnumbers of students
 2.
 3.
 
+
+output obtained
+![output](Black.jpeg)
