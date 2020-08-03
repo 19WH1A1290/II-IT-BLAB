@@ -8,5 +8,7 @@ To Display the names and rollnumbers of students
 3.
 
 
-output obtained
-![output](Black.jpeg)
+###output obtained
+
+
+![output](kkcm1.png)
